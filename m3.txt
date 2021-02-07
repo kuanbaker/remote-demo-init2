@@ -1,4 +1,12 @@
 yi hang zi
 :wq
 
+add another line:
+B
+B
+B
+A
+A
+C
+A
 
